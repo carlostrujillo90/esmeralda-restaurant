@@ -9,6 +9,7 @@
  * @since Twenty Twenty-Two 1.0
  */
 
+add_theme_support( 'menus' );
 
 if ( ! function_exists( 'twentytwentytwo_support' ) ) :
 
